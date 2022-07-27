@@ -1,0 +1,19 @@
+﻿<Window x:Class="SlnColruyt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlnColruyt"
+        mc:Ignorable="d"
+        Title="Colruyt" Height="370" Width="600" Background="#FFFDA226">
+    <Grid>
+        <Button x:Name="Btn_NL" Background="#FF343434" Content="NL" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="40" Margin="23,19,0,0" FontWeight="Bold" FontSize="16" Foreground="#FFFF5200" Click="Btn_NL_Click"/>
+        <Button x:Name="Btn_FR" Background="White" Content="FR" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="40" Margin="73,19,0,0" FontWeight="Bold" FontSize="16" Foreground="#FFFF5200" Click="Btn_FR_Click"/>
+        <Button x:Name="Btn_EN" Background="White" Content="EN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="40" Margin="123,19,0,0" FontWeight="Bold" FontSize="16" Foreground="#FFFF5200" Click="Btn_EN_Click"/>
+        <Image Source="/img/colruyt_logo.png" x:Name="logo_img" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="165" Margin="224,93,0,0"/>
+        <Button x:Name="btnKlanten" Content="Klanten" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Height="30" Margin="167,186,0,0" FontWeight="Bold" Background="#FFFF5200" Foreground="White" FontSize="14"/>
+        <Button x:Name="btnArtikels" Content="Artikels" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Height="30" Margin="167,234,0,0" FontWeight="Bold" Background="#FFFF5200" Foreground="White" FontSize="14"/>
+        <Button x:Name="btnFacturen" Content="Facturen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Height="30" Margin="304,186,0,0" FontWeight="Bold" Background="#FFFF5200" Foreground="White" FontSize="14"/>
+        <Button x:Name="btnligging" Content="liggingen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Height="30" Margin="304,234,0,0" FontWeight="Bold" Background="#FFFF5200" Foreground="White" FontSize="14"/>
+    </Grid>
+</Window>

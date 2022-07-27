@@ -1,0 +1,15 @@
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\bin\Debug\SlnColruyt.exe.config
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\bin\Debug\SlnColruyt.exe
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\bin\Debug\SlnColruyt.pdb
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.csproj.AssemblyReference.cache
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\MainWindow.g.cs
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\App.g.cs
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt_MarkupCompile.cache
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt_MarkupCompile.lref
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\MainWindow.baml
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.g.resources
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.Properties.Resources.resources
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.csproj.GenerateResource.cache
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.exe
+C:\Users\Abdel\Desktop\SlnColruyt\SlnColruyt\obj\Debug\SlnColruyt.pdb
